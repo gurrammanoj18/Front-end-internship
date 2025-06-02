@@ -1,0 +1,185 @@
+#first {
+    background-image: url("https://www.brandinginasia.com/wp-content/uploads/2022/12/Top-Ads-based-on-Neuro-Science.jpg");
+    height: 100vh;
+    background-size: cover;
+    padding: 5px;
+}
+.img{
+    height: 20vh;
+    width: 200px;
+    border-radius: 5px;
+    
+}
+.img1{
+    height: 30vh;
+    width: 250px;
+    border-radius: 5px;
+    
+}
+.img2{
+    height: 30vh;
+    width: 250px;
+    border-radius: 5px;
+    padding-left: 50px;
+    
+}
+
+.card1{
+    text-align: center;
+    background-color:transparent;
+    height: 20vh;
+    background-size: cover;
+    border-radius: 15px;
+    width: 80wh;
+}
+.headingMain{
+    color: rgb(44, 6, 6);
+    font-weight: 500;
+}
+
+.spn{
+    color: brown;
+    font-weight: bolder;
+}
+
+
+}
+.headingExpert{
+    color: blue;
+    font-weight: bold;
+}
+.pro{
+    margin: 10px;
+    padding-left: 100px;
+}
+
+.headingExpert{
+    color: rgb(7, 7, 171);
+    font-weight: bold;
+}
+.bullet{
+    padding-left: 20px;
+}
+.bullet1{
+    padding-left: 70px;
+}
+
+.service{
+    color: rgb(4, 4, 143);
+    font-weight: bolder;
+}
+.service1{
+    color: rgb(4, 4, 143);
+    font-weight: bolder;
+    padding-left: 20px;
+}
+#navbar{
+    background-color: rgba(245, 177, 188, 0.673);
+}
+
+.cards{
+    height: 30vh;
+    width: 50vw;
+}
+.listc{
+    font-size: 15px;
+    margin-left: 280px;
+    padding-bottom: 15px;
+}
+span{
+    color: black;
+    font-weight: 700;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.choose{
+    margin: 10px;
+    padding-left: 307px;
+}
+
+.imgt{
+    height: 80vh;
+    background-size: cover;
+
+}
+
+.card-treat{
+    background-color: rgb(213, 235, 242);
+    height: 80vh;
+    width: 100vw;
+}
+.box {
+        color: #666;
+    padding: .75em;
+    height: auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--ast-border-color);
+    border-radius: 2px;
+    background: var(--ast-comment-inputs-background);
+    box-shadow: none;
+    background-color: #f9f3f3;
+    box-sizing: border-box;
+    transition: all .2s linear;
+}
+.box1 {
+        color: #666;
+    padding: .75em;
+    height: 100px;
+    border-width: 1px;
+    background-color: #f9f3f3;
+    border-style: solid;
+    border-color: var(--ast-border-color);
+    border-radius: 2px;
+    background: var(--ast-comment-inputs-background);
+    box-shadow: none;
+    box-sizing: border-box;
+    transition: all .2s linear;
+}
+.button {
+    width: 80px;
+    color: #f9f3f3;
+    height: 40px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: rgb(58, 4, 150);
+
+}
+.sectionFooter{
+    background-color: #0E4094;
+    color: #f9f3f3;
+    
+    padding: 20px;
+}
+
+.cardf{
+    width: 500px;
+    text-align: center;
+    padding: 10px;
+    margin: 40px;
+
+}
+.footHead{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: start;
+}
+.footPara{
+    font-size: 15px;
+    text-align: start;
+}
+
+#options{
+    color: black;
+}
+.cardwhy{
+    margin-top: 40px;
+}
+
+li{
+    margin-bottom: 9px;
+}
